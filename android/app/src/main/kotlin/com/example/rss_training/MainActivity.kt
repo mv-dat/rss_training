@@ -1,0 +1,6 @@
+package com.example.rss_training
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
